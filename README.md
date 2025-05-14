@@ -34,7 +34,7 @@ These operations are essential for applications that require persistent data sto
        1.*Configuration Management*: Many applications store configuration settings in text files. This program demonstrates how to create, read, and modify such 
             configuration files, enabling dynamic application behavior.
 
-       2.*Logging Systems*: Logging is crucial for monitoring and debugging applications. The program can be extended to log events and errors to a text file, 
+       2.*Logging system*: Logging is crucial for monitoring and debugging applications. The program can be extended to log events and errors to a text file, 
            facilitating easier troubleshooting and performance monitoring.
 
        3.*Data Processing Tools*: Applications that process data often need to read from and write to files. This program provides a template for handling input 
