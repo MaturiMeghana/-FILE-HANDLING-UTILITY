@@ -34,4 +34,5 @@ PLATFORM
        3.Data Processing Tools:Applications that process data pften need to read from and write to files.This program proviedes a template for handling input and output operations,such as reading data from a file,processing it, and saving the results.
        4.Educational Purposes: For beginners learning Java, understanding file I/O operations is essential.
        
-      
+*output*
+![Image](https://github.com/user-attachments/assets/48714d53-c4d5-4fb8-a19f-28bac0681cd4)
